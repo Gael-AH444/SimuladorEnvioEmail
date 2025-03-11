@@ -6,7 +6,7 @@ Este es un proyecto creado con la finalidad de poder validar campos, mostrar ale
 ## Screenshots
 
 
-![App Screenshot](img/api.PNG)
+![App](16-PROYECTO-EnviarEmail/img/email.PNG)
 
 
 
